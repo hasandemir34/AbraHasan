@@ -5,5 +5,7 @@ def main():
     print(f"{mil} yaklaşık olarak {km} yapıyor.")
     print(type(km))
 
+
+
 if __name__=="__main__":
     main()
