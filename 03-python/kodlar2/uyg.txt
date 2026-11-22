@@ -1,0 +1,4 @@
+hasan,100
+hasan,12
+ali,56
+ahmet,69
