@@ -1,0 +1,8 @@
+
+
+urunList=[]
+
+urunler={
+    
+}
+
