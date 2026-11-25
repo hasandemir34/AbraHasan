@@ -9,7 +9,7 @@ def verileriOku():
         return {}
 
     with open(BILGI_DOSYASI, "r", encoding="utf-8") as dosya:
-        icerik = dosya.read().strip()  # dosyadaki yazıyı okur, baştaki/sondaki boşlukları siler
+        icerik = dosya.read().strip()  # strip dosyadaki yazıyı okur, baştaki/sondaki boşlukları siler
 
     if icerik:
         return json.loads(icerik)  # icerik bir str olduğu için loads kullanıyoruz
