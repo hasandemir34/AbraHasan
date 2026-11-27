@@ -1,0 +1,29 @@
+{
+    "urunler": [
+        {
+            "id": 1,
+            "ad": "kalem",
+            "stok": 100
+        },
+        {
+            "id": 2,
+            "ad": "silgi",
+            "stok": 18
+        },
+        {
+            "id": 3,
+            "ad": "uç",
+            "stok": 25
+        },
+        {
+            "id": 4,
+            "ad": "defter",
+            "stok": 12
+        },
+        {
+            "id": 5,
+            "ad": "kulaklık",
+            "stok": 4
+        }
+    ]
+}
